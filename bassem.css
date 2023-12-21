@@ -1,0 +1,88 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.mydada{
+    background-color: black;
+    position: static;
+
+}
+hr{
+    background-color: black;
+    color: black;
+}
+  .gg{
+    color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 50%
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+flex-wrap: nowrap;
+
+}
+.flex  img{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+flex-wrap: nowrap;
+width: 100%;
+height: 108%;
+}
+.font{
+    color: black;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.mynana{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 4%;
+}
+.mynana img{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowraps;
+}
+.mylove{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 4%;
+    padding-top: 3%;
+padding-bottom: 4%;
+}
+.mylove img{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowraps;
+    
+}
+.mymama{
+    margin: 2%;
+}
+.myhaha{
+    margin-right: 80%;
+}
+.myblack{
+    
+    background-color: black;
+    color: azure;
+    margin-left: 0%;
+width: 150%;
+}
+mycaca{
+    background-color: black;
+    width: 148%;
+margin-left: 0%;
+}
